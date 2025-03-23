@@ -36,7 +36,7 @@ public class EjerciciosClase5 {
         System.out.println(" Numero de vocales" + contador);
         sc.close();
 
-
+    //Ejercicio 3. Crea una calculadora
         Scanner scn = new Scanner(System.in);
 
         System.out.println("Menú:");
