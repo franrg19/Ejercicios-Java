@@ -36,17 +36,5 @@ public class EjerciciosClase5 {
         System.out.println(" Numero de vocales" + contador);
         sc.close();
 
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
